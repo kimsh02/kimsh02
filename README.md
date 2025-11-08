@@ -1,6 +1,6 @@
 <p align=center>
   <em>
-    &ldquo;If anything can go wrong, it <strong>won't</strong>&hellip; that's when you're testing.
+    &ldquo;If anything can go wrong, it <strong>won't</strong>&hellip; That's when you're testing.
     <br>[&hellip;]
     <br>That's Murphy's law of testing.&rdquo;
   </em>
